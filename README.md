@@ -1,0 +1,2 @@
+# mulitinfo
+images,video
